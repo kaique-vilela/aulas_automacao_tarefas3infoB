@@ -1,7 +1,7 @@
 print('Digite sua idade: ')
 idade = int(input())
 
-print('No ano que vem a sua idade será',int(idade) + 1)
+print('No ano que vem a sua idade será', idade+ 1)
 
 if idade <= 12:
     print('Você é uma criança')
