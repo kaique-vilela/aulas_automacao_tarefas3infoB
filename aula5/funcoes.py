@@ -20,7 +20,7 @@ def login(usuario1,senha):
         return True
     else:
         return False
-    
+      
 #chamando a função
 
 #area = calcularAreaTriangulo(100,50)
